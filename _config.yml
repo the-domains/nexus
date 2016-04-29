@@ -1,29 +1,41 @@
-name: THE Nexus
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.3647715514525771
 title: 'Academic Musings of Mr. Gallifant '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.4588836701586843
+  brandStrength: 0.8242659193929285
+  rhythmicContrast: 0.75
   brandColors:
     - '#013e87'
     - '#c40026'
     - '#ffeb00'
     - '#000002'
     - '#3d0001'
-  brandStrength: 0.8242659193929285
   lightness: 0.5
-  saturation: 0.45888367015868425
-  rhythmicContrast: 0.75
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: THE Nexus
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.0971178
+layout_spectrum: 1
