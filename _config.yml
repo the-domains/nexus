@@ -1,4 +1,4 @@
-name: Nexus
+name: THE Nexus
 favicon: null
 layout_spectrum: 0.1782
 typography_spectrum: 0.3647715514525771
@@ -23,7 +23,7 @@ color:
     - '#9fa3d4'
     - '#d7d8f5'
   brandStrength: 0.8242659193929285
-  lightness: 0.5625
+  lightness: 0.4375
   saturation: 0.45888367015868425
   rhythmicContrast: 0.75
 purpose: []
