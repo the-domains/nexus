@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Most people think a storm is a dangerous event, but those of in us in the desert and farmers know that it brings life and the abundance of crops. '
-datePublished: '2016-04-29T06:10:03.761Z'
-dateModified: '2016-04-29T06:08:58.243Z'
+datePublished: '2016-04-29T06:11:54.838Z'
+dateModified: '2016-04-29T06:10:12.457Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-29-be-a-thunderstorm.md
