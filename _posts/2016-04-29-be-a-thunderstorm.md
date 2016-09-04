@@ -1,25 +1,26 @@
 ---
-authors: []
-dateModified: '2016-04-29T18:12:21.467Z'
-datePublished: '2016-04-29T18:12:34.415Z'
-hasPage: true
-inFeed: true
-inNav: false
 keywords: []
+title: Be A Thunderstorm!
+datePublished: '2016-09-01T13:02:17.818Z'
+dateModified: '2016-09-01T13:02:15.499Z'
 publisher: {}
-title: 'Be A Thunderstorm!'
-description: 'Most people think a storm is a dangerous event, but those of in us in the desert and farmers know that it brings life and the abundance of crops.'
 author: []
+inFeed: true
+hasPage: true
+inNav: false
+description: >-
+  Most people think a storm is a dangerous event, but those of us in the desert
+  and farmers know that it brings life and the abundance of crops.
+via: {}
 starred: true
 sourcePath: _posts/2016-04-29-be-a-thunderstorm.md
-published: true
 url: be-a-thunderstorm/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/222a47be-9535-48e2-8c85-3804e06baa95.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/482c26a728222aadc270e34a4d72909e05d49aff.jpg)
 
-Most people think a storm is a dangerous event, but those of in us in the desert and farmers know that it brings life and the abundance of crops.
+Most people think a storm is a dangerous event, but those of us in the desert and farmers know that it brings life and the abundance of crops.
 
 **Your mind is a parched land thirsting for knowledge.**
 
